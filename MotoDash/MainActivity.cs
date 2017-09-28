@@ -18,7 +18,7 @@ namespace MotoDash
 
             speedometerButton.Click += delegate
             {
-                StartActivity(typeof(Speedometer));
+                StartActivity(typeof(SpeedometerActivity));
             };
         }
     }
