@@ -11,4 +11,10 @@
         android:layout_height="wrap_content"
         android:id="@+id/SpeedometerButton"
         android:clickable="true" />
+    <Button
+        android:text="Lean Angle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/LeanAngleButton"
+        android:clickable="true" />
 </LinearLayout>

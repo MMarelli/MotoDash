@@ -44,8 +44,38 @@ namespace MotoDash
 		public partial class Id
 		{
 			
+			// aapt resource value: 0x7f04000a
+			public const int LeanAngleButton = 2130968586;
+			
+			// aapt resource value: 0x7f040009
+			public const int SpeedometerButton = 2130968585;
+			
 			// aapt resource value: 0x7f040000
-			public const int SpeedometerButton = 2130968576;
+			public const int xContainer = 2130968576;
+			
+			// aapt resource value: 0x7f040001
+			public const int xLable = 2130968577;
+			
+			// aapt resource value: 0x7f040002
+			public const int xReadout = 2130968578;
+			
+			// aapt resource value: 0x7f040003
+			public const int yContainer = 2130968579;
+			
+			// aapt resource value: 0x7f040004
+			public const int yLable = 2130968580;
+			
+			// aapt resource value: 0x7f040005
+			public const int yReadout = 2130968581;
+			
+			// aapt resource value: 0x7f040006
+			public const int zContainer = 2130968582;
+			
+			// aapt resource value: 0x7f040007
+			public const int zLable = 2130968583;
+			
+			// aapt resource value: 0x7f040008
+			public const int zReadout = 2130968584;
 			
 			static Id()
 			{
@@ -61,10 +91,13 @@ namespace MotoDash
 		{
 			
 			// aapt resource value: 0x7f020000
-			public const int Main = 2130837504;
+			public const int LeanAngle = 2130837504;
 			
 			// aapt resource value: 0x7f020001
-			public const int Speedometer = 2130837505;
+			public const int Main = 2130837505;
+			
+			// aapt resource value: 0x7f020002
+			public const int Speedometer = 2130837506;
 			
 			static Layout()
 			{
